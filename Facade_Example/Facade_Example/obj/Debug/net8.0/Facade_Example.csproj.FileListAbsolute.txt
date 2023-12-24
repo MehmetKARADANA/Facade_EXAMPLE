@@ -1,0 +1,14 @@
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\bin\Debug\net8.0\Facade_Example.exe
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\bin\Debug\net8.0\Facade_Example.deps.json
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\bin\Debug\net8.0\Facade_Example.runtimeconfig.json
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\bin\Debug\net8.0\Facade_Example.dll
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\bin\Debug\net8.0\Facade_Example.pdb
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\obj\Debug\net8.0\Facade_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\obj\Debug\net8.0\Facade_Example.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\obj\Debug\net8.0\Facade_Example.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\obj\Debug\net8.0\Facade_Example.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\obj\Debug\net8.0\Facade_Example.dll
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\obj\Debug\net8.0\refint\Facade_Example.dll
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\obj\Debug\net8.0\Facade_Example.pdb
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\obj\Debug\net8.0\Facade_Example.genruntimeconfig.cache
+C:\Users\Mehmet\Desktop\codes\C#_codes\Facade_Example\Facade_Example\obj\Debug\net8.0\ref\Facade_Example.dll
